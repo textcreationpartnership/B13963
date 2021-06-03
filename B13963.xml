@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings declaration, importing a reuocation of all such letters for ennoblishment as haue not been verified in the chamber of accountes of Normandy. Also of all such as haue been graunted to such persons as haue or yet do beare armes against his Maiestie, and fauour rebelles. Together with an arrest or decree of the Court of Parliament of Caen, concerning the residence of clergie men vpon their cures, and the warrantise of their tithes. Faithfully translated out of French according to the coppye printed at Caen.</title>
+            <author>France. Sovereign (1589-1610 : Henry IV)</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13963</idno><idno type="EEBO-CITATION">99851122</idno>
+  <idno type="VID">16378</idno>
+  <idno type="EEBO-PROQUEST">2240913397</idno>
+  <idno type="STC">STC 13116.5</idno>
+  <idno type="STC">ESTC S115905</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99851122e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13963)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16378)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 710:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings declaration, importing a reuocation of all such letters for ennoblishment as haue not been verified in the chamber of accountes of Normandy. Also of all such as haue been graunted to such persons as haue or yet do beare armes against his Maiestie, and fauour rebelles. Together with an arrest or decree of the Court of Parliament of Caen, concerning the residence of clergie men vpon their cures, and the warrantise of their tithes. Faithfully translated out of French according to the coppye printed at Caen.</title>
+                  <author>France. Sovereign (1589-1610 : Henry IV)</author>
+                  <author>Henry IV, King of France, 1553-1610. aut</author>
+               </titleStmt>
+               <extent>[2], 10, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward White, and are to be sold at the little North door of S. Paules Church, at the signe of the [Gun],</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[1591]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Part of printer's address and publication date from STC.</note>
+                  <note>Last leaf blank?.</note>
+                  <note>Formerly STC 13115.</note>
+                  <note>Identified as STC 13115 on UMI reel 710.</note>
+                  <note>Imperfect; cropped, affecting imprint, signatures.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Clergy --  France --  Early works to 1800.</term>
+               <term type="geographic_name">France --  Nobility --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:16378:1"/>
+            <pb facs="tcp:16378:1"/>
+            <p>The Kings Declaration, Importing a Reuocati<g ref="char:EOLhyphen"/>on of all such Letters for <hi>Enno<g ref="char:EOLhyphen"/>blishment, as haue not been verified in the</hi> Chamber of accountes of Normandy.</p>
+            <p>
+               <hi>Also of all such as haue been graunted to</hi> such persons as haue or yet do beare armes against his Maiestie, and fauour Rebelles.</p>
+            <p>Together with an Arrest or decree of the Court of Parliament of <hi>Caen,</hi> concerning the residence of Clergie men vpon their Cures, and the warrantise of their Tithes.</p>
+            <p>Faithfully translated out of French according to the Coppye printed at <hi>Caen.</hi>
+            </p>
+            <p>AT LONDON Printed for <hi>Edward White,</hi> and are to <hi>be sold at the little North door of S.</hi> Paules Church, at the signe of the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:16378:2"/>
+            <pb facs="tcp:16378:2"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="royal_declaration">
+                        <head>The Kings Declaration, <hi>impor<g ref="char:EOLhyphen"/>ting a rouocation of all such Letters for Enno<g ref="char:EOLhyphen"/>blishment,</hi> as haue not been verified in the Cham<g ref="char:EOLhyphen"/>ber of account of Normandy, also of all such <hi>as haue been graunted to such persons as haue or yet doo beare armes against his Maiestie, and fauour the Rebels.</hi>
+                        </head>
+                        <opener>
+                           <salute>
+                              <hi>
+                                 <seg rend="decorInit">H</seg>Enry</hi> by the grace of God, King of <hi>Fraunce</hi> and <hi>Nauarre,</hi> to our trusty and welbeloued, our Offi<g ref="char:EOLhyphen"/>cers of accompts, now transfer<g ref="char:EOLhyphen"/>red to <hi>Caen</hi> greeting and goodwill.</salute>
+                        </opener>
+                        <p>Wheras the late our most honorable Lo. and Brother vpon the necessitie of the af<g ref="char:EOLhyphen"/>faires of this kingdome, thought good to ad<g ref="char:EOLhyphen"/>uaunce vnto the state of Nobilitye, sundrye pezants, some for money, others in recom<g ref="char:EOLhyphen"/>pence of their seruice: the generall Edicts wherof were directed to our Chambers of accounts, to the which especially the verifi<g ref="char:EOLhyphen"/>cation of the said ennoblishments, also of the money or desert of the gift thereof doth ap<g ref="char:EOLhyphen"/>pertaine, and without the which verification which is the proper essence of the said enno<g ref="char:EOLhyphen"/>blishments, the same are of no force or va<g ref="char:EOLhyphen"/>lew. Notwithstanding some of our Subiects
+<pb n="2" facs="tcp:16378:3"/>in the said Court of <hi>Normandy,</hi> pretending that they haue obtained the saide Letters of ennoblishment, which they haue not verifi<g ref="char:EOLhyphen"/>ed before you, do vsurpe the qualitie &amp; pri<g ref="char:EOLhyphen"/>uilidges of Nobility, and some that were sub<g ref="char:EOLhyphen"/>iect to tallages, do cause themselues to be ra<g ref="char:EOLhyphen"/>ced out of the role, to the great preiudice of our treasurye, and such our Subiectes as doo beare their taxes contrary to all equitye and reason.</p>
+                        <p>Also of those that haue beene ennobled or haue verrified their Charters after the forme accustomed, some haue very ingratefully re<g ref="char:EOLhyphen"/>uoulted from our seruice.</p>
+                        <p>We therfore desiring for the wealth of our estate, or the releefe of our poore people, to prouide against the fraud and abuse com<g ref="char:EOLhyphen"/>mitted in the obtaining of the saide enno<g ref="char:EOLhyphen"/>blishments, as well to the detriment of our treasurie, as the vnworthinesse of those who by surprise rebellion or otherwise, haue pur<g ref="char:EOLhyphen"/>chased the gift therof: and hauing referred the matter to the deliberation of our Coun<g ref="char:EOLhyphen"/>sell, by the aduice therof we haue said, decla<g ref="char:EOLhyphen"/>red, and ordained, and doo say, declare, and
+<pb facs="tcp:16378:3"/>ordain by these presents, that all &amp; euery the said ennoblishments heretofore by our sayd predecessor and vs graunted throughout our Cuntry or Dutchye of <hi>Normandy,</hi> which yet are not verified in our saide Chamber of ac<g ref="char:EOLhyphen"/>compts of <hi>Normandy</hi> to be voide or of none effect. Willing and charging you most ex<g ref="char:EOLhyphen"/>pressely to inhibit and in our name to forbid all purchasers of the same, neuer to make any vse therof, neither to take or vsurp the sayde qualitye or priuiledge of Nobility: also all our Iudges or Officers, not to receiue or tollerate them, vntill they haue been well and duelye verified in our said Chamber, vnder pain of transgression of falshood &amp; arbitrary amends albeit there should chaunce to be some that haue not been directed therto, which as wre<g ref="char:EOLhyphen"/>sted and not duely verified we haue and do reuoke.</p>
+                        <p>We do moreouer forbid our elect and the Controuler in matter of aide and tallages, e<g ref="char:EOLhyphen"/>uerye one in his election, that they shall not suffer or permit any of the saide pretended ennobled Persons, that hath heretofore con<g ref="char:EOLhyphen"/>tributed to our tallages, to be rased out of the
+<pb facs="tcp:16378:4"/>rules of the same: also that if any haue been so blotted out and raced, our pleasure is, that they shall be put in againe and taxed as afore time, vnder paine that themselues shall an<g ref="char:EOLhyphen"/>swere for it in their own priuate name.</p>
+                        <p>Moreouer to the end to vnderstand how they haue done their dueties herein, we doo commaund them to present vnto you the catalogue and roale of such as pretend them selues to be ennobled in euery election, that at the instance of our Atourney general they maye be assigned in our saide Chamber, to bring in their Letters, which if the case so fall out shall be retained as being obteined by fraude and contrary to the intent of our pre<g ref="char:EOLhyphen"/>decessor and vs, or els in verrification to taxe them as you shall think reasonable.</p>
+                        <p>Furthermore, concerning those that vngrate<g ref="char:EOLhyphen"/>fullye haue since these Nobles reuolted from our seruice: we haue and doo reuoke all and euery their charters, graunts that haue beene made vnto them, and all verifications that thereof maye haue ensued: and as men for their rebellion depriued and disgraded from all honor and degree of nobility, our will is
+<pb n="5" facs="tcp:16378:4"/>that they be set down and made contributo<g ref="char:EOLhyphen"/>ry to our tallages as other Pezants are, or in case they inhabit in the free towns, they shal not take or attribute to thēselues any further state or priuiledge then of Pezants, notwith<g ref="char:EOLhyphen"/>standing whatsoeuer their Letters of grace, either alreadye or hereafter to be purchased at our hands, before the same haue beene ve<g ref="char:EOLhyphen"/>rified in our said Chambers of accompts.</p>
+                        <p>We doo also will and commaund you to cause these Letters of declaration to be read, published, registred, printed and sent to all our Seas, auditories, and other places conue<g ref="char:EOLhyphen"/>nient: also to cause the contents in the same to be maintained, kept, and obserued by Bai<g ref="char:EOLhyphen"/>lifs, Stewards, elect, and others our Officers and Subiects, and to proceed against the in<g ref="char:EOLhyphen"/>fringers thereof by all due and reasonable meanes. For this end we giue you full power and authoritie: for such is our pleasure.</p>
+                        <p>Giuen at our Campe at <hi>Mante</hi> the 29. of Iune, the yeer of grace 1591. and of our raign the 2.</p>
+                        <p>Signed by the King in his counsell Potier, and sealed with the great seale vpon a single labell of yellow waxe.</p>
+                        <pb n="6" facs="tcp:16378:5"/>
+                        <p> Moreouer vpon the saide Letters it is writ<g ref="char:EOLhyphen"/>ten, read, published, and registred in the Chamber of accounts of <hi>Normandy,</hi> in the hearing and at the request of the Kings At<g ref="char:EOLhyphen"/>torney Generall in the same, like as is contei<g ref="char:EOLhyphen"/>ned in the register at <hi>Caen</hi> the 27. of Iulye in the yeere 1591.</p>
+                        <closer>
+                           <signed>Signed <hi>Richer.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THe Chamber hauing seene the Letters pat<g ref="char:EOLhyphen"/>tents of the Kings declaration, giuen at his Campe at Mante the 29. of Iune last, contai<g ref="char:EOLhyphen"/>ning a reuocation of ennoblishments graunted by the said Lord and the late King, not verified in the said Chamber, vntill the saide verification in the same, albeit there may be some whose letters haue not beene directed thereto. Also that concerning such as vngratefullye haue reuolted since the late troubles: his Maiestie hath likewise reuoked their charters and grauntes, together with all the verri<g ref="char:EOLhyphen"/>fications that may haue ensued, and that as men de<g ref="char:EOLhyphen"/>priued and for their rebellion disgraded from all honor and degree of nobility: he willeth them to be reduced and suborned to the tallages as other the Pezants are, or if they inhabite in anye free Townes, they shall not take vpon them anye other degree or priuelidge thē Pezants, notwithstanding whatsoeuer Letters of grace they haue, or heereaf<g ref="char:EOLhyphen"/>ter may obtaine of his saide Maiestie, vnlesse the first verified in the said Chamber, as more at large is conteined in the said letters pattents. The Kings
+<pb n="7" facs="tcp:16378:5"/>Attorney generall being heard, who hath requi<g ref="char:EOLhyphen"/>red the registring of the same, and the whole con<g ref="char:EOLhyphen"/>sidered: The Chamber hath ordained and dooth ordaine, that the saide Letters of declaration of the 2.9. of Iune last, shalbe read, published and registred in the roules therof. The Vidimus whereof shalbe sent to the Bayliss and their lieuetenants in euerye Vicounty, also to the elect of the election of this Prouince, that there they may likewise be read and published in their Sea and auditories, withall en<g ref="char:EOLhyphen"/>ioyning the substitutes of the said Attorney gene<g ref="char:EOLhyphen"/>rall in euery the said ivrisdictions, to assist the exe<g ref="char:EOLhyphen"/>cution of the said Letters, and the said lieuetenants of Bailifs and the elect, to send within one moneth into the saide Chamber, a roule and catalogue of such persons as may haue prosecuted their letters of ennoblishment before them, or that manifestly haue taken vpon them the saide title and degree of nobility, since the yeere 1574. Together with a summary of their behauiours, dealinges and resi<g ref="char:EOLhyphen"/>dence: also to send the coppies of their letters and charters obteined by the saide ennobled persons and of the arrests of verification thereof ensuing.</p>
+            <closer>
+               <dateline>Giuen <date>the 27. of iuly. 1591.</date>
+               </dateline> Taken out of the Regester of the Chamber of accounts of Normandy.
+<signed>Signed Richer.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:16378:6"/>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Parliamentary_decree">
+                        <head>An Arrest or decree of the Courte of Parlia<g ref="char:EOLhyphen"/>ment of Caen concerning the residence of <hi>Cu<g ref="char:EOLhyphen"/>rats and Clergie men, vpon their Cures, and the warrantise of their Tythes.</hi>
+                        </head>
+                        <p>
+                           <seg rend="decorInit">V</seg>Pon request exhibited by the Kings Attorney generall, shewing that he vnderstādeth that in diuers places and pari<g ref="char:EOLhyphen"/>shes of this prouince of Nor<g ref="char:EOLhyphen"/>mandy, there are risen sundrye Souldiours &amp; other vnknown persons in armes, who by plaine force doo ende<g ref="char:EOLhyphen"/>uour to gather and take vp the tithes of the said Pa<g ref="char:EOLhyphen"/>rishes (malgre those to whom by right they do ap<g ref="char:EOLhyphen"/>pertaine) to the great preiudice of the Clergie, and contrary to the Kings Edicts and decrees: with all requiring the said Court to graunt him commissi<g ref="char:EOLhyphen"/>on to enforme against the transgressors of the saide Edictes and decrees, as also that the same maye be read againe and published euen in the Pulpits of the said parishes: likewise in the meane time that all men may be inhibited and forbidden not to in<g ref="char:EOLhyphen"/>trude themselues to disturb the said Clergie, in the receipt of their said titles, vnder such penalties as by the said Court shalbe thought conuenient, nāe<g ref="char:EOLhyphen"/>ly to answere all charges, damages and interest of the said Clergie and their farmers.</p>
+                        <p>The Court hauing seen the said request, and gi<g ref="char:EOLhyphen"/>uen attendance to the Counsellor that made the re<g ref="char:EOLhyphen"/>porte, all thorowly considered. The saide Court ministring Iustice vpon the peticion of the sayde Attorney generall, hath ordeined and enioyned all
+<pb n="9" facs="tcp:16378:6"/>Curates and Ecclesiasticall persons that haue cure of Soules, to be actually resident vpon their Cures and Benefices, there to preach and teach the word of God, and to instruct their Parishioners in their due obedience to the King, to pray for his person, with the prosperitie of his affaires and estate, to o<g ref="char:EOLhyphen"/>bey and fulfil his Edicts and the decrees and arrests of the saide Courte, vpon the penaltyes in the same set down. And in so dooing the saide Court inbi<g ref="char:EOLhyphen"/>biteth and forbiddeth all persons of whatsoeuer estate or calling, not to intrude themselues directly or indirectly, to molest or hinder the said Curates or Ecclesiasticall persons in the enioying of their Cures or benefices, or in the receipt of their Tithes or reuenues of the same, vnder paine of confiscati<g ref="char:EOLhyphen"/>on of body and goods. And to the end this present decree may be known to all men, the saide Courte hath ordained that it shalbe sent into all the Bayly<g ref="char:EOLhyphen"/>wicks of this resort, withal enioyning the Bailifs, their Lieuetenants, and the said Attorney generals substitutes to cause it to be published by sound of Trumpet in all the accustomed places depending of their surisdictions, namely in the Pulpets at the great parochiall masses in euery Parrish, vpon the Sunday and other solemne feastes, to the end none may be exercised vpon any pretence of ignorance.</p>
+                        <closer>
+                           <dateline>Giuen at Caen in the said Court of Parliament <date>the 7. of August. 1591.</date>
+                           </dateline>
+                           <signed>Signed Donnest.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:16378:7"/>
+            <p> IN the same yeere 1591. vpon Monday the 12. of Au<g ref="char:EOLhyphen"/>gust at <hi>Caen</hi> in the presence of vs <hi>Iohn Vauquelin</hi> Esquir, Counsellor to the King &amp; Lieutenant Generall to the L. Bayly of <hi>Caen,</hi> the contents of the arest aboue mentioned, was read and published in the audience of the iurisdic<g ref="char:EOLhyphen"/>tion of the said Bailiwick and persidiall Sea sitting and by vs holden. It was also ordeined at the petition of the kings Attorney generall, that the same shalbe also read and pub<g ref="char:EOLhyphen"/>lished with sound of Trumpet, and common proclamati<g ref="char:EOLhyphen"/>on in all the quarters and places vsed for Proclamations in the said Town, also that the copies or Vidimus shall be sent into all other the Vicountyes of this Bayliwick, there to doo the like: also to all the Curates and Vickers of the parishe of this Vicounty, to the end they may read thē in the Pulpits of their sayd parishes vpon the Sondaye, or other solemne feasts, that none maye pretend cause of ig<g ref="char:EOLhyphen"/>norance: also that to the same ende the saide arrest shall be printed.</p>
+            <p>Likewise all Sergeants are enioyned each within his precinct, to see to the fulfilling hereof, vnder the penalties set down therfore to make such dispatch as may be requi<g ref="char:EOLhyphen"/>site or necessary therto. Giuen as aforesaid.</p>
+            <closer>
+               <signed>Signed, <hi>Vauquelin de la Serre.</hi> Criquet.</signed>
+            </closer>
+            <postscript>
+               <p>THe same day and yeer the contents aboue mentioned were read and published in the quarters &amp; places ac<g ref="char:EOLhyphen"/>customed to make proclamations in this Towne of <hi>Caen,</hi> by me <hi>Simon Berot</hi> Sergeant royall of <hi>Caen,</hi> in the presēce of <hi>Florimont le Soef</hi> ordinary Trompet of the same town.</p>
+               <closer>
+                  <signed>Signed. <hi>Berot.</hi>
+                  </signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:16378:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
